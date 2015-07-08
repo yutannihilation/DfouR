@@ -1,0 +1,10 @@
+dependencies:
+- name: d3
+  version: 3.4.13
+  src: htmlwidgets/lib/d3
+  script: ./d3.min.js
+- name: d4
+  version: 0.9.4
+  src: htmlwidgets/lib/d4
+  script: ./d4.min.js
+  style: ./d4.css
